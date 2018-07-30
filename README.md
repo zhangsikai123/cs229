@@ -10,7 +10,7 @@ For each problem sets, my solutions are provided as an iPython Notebook.
 
 The first problem set deals with supervised learning:
 
-1. **Excercise 1**: Logistic regression and Newton's method**
+1. **Excercise 1**: Logistic regression and Newton's method
 2. **Excercise 2**: Poisson regression, exponential family
 3. **Excercise 3**: Gaussian discriminant analysis
 4. **Excercise 4**: Linear invariance of optimization algorithms
