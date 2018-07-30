@@ -19,4 +19,4 @@ The first problem set deals with supervised learning:
 Links to the problem set and solutions:
 
 - Problem set: [http://github.com/ccombier/CS229/ps1.pdf](http://github.com/ccombier/CS229/ps1.pdf)
-- Solutions (iPython Notebook): [http://github.com/ccombier/CS229/pb1.ipynb](http://github.com/ccombier/CS229/pb1.ipynb)
+- Solutions (iPython Notebook): [http://github.com/ccombier/CS229/ps1_solutions.ipynb](http://github.com/ccombier/CS229/pb1.ipynb)
