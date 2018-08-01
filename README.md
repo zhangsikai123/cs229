@@ -10,7 +10,7 @@ For each problem sets, my solutions are provided as an iPython Notebook.
 
 The first problem set deals with supervised learning:
 
-1. **Excercise 1**: Logistic regression and Newton's method**
+1. **Excercise 1**: Logistic regression and Newton's method
 2. **Excercise 2**: Poisson regression, exponential family
 3. **Excercise 3**: Gaussian discriminant analysis
 4. **Excercise 4**: Linear invariance of optimization algorithms
@@ -18,5 +18,5 @@ The first problem set deals with supervised learning:
 
 Links to the problem set and solutions:
 
-- Problem set: [http://github.com/ccombier/CS229/ps1.pdf](http://github.com/ccombier/CS229/ps1.pdf)
-- Solutions (iPython Notebook): [http://github.com/ccombier/CS229/pb1.ipynb](http://github.com/ccombier/CS229/pb1.ipynb)
+- Problem set: [http://github.com/ccombier/CS229/blob/master/ps1.pdf](http://github.com/ccombier/CS229/blob/master/ps1.pdf)
+- Solutions (iPython Notebook): [http://github.com/ccombier/CS229/blob/master/ps1_solutions.ipynb](http://github.com/ccombier/CS229/blob/master/ps1_solutions.ipynb)
