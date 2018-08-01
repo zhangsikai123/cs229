@@ -10,13 +10,13 @@ For each problem sets, my solutions are provided as an iPython Notebook.
 
 The first problem set deals with supervised learning:
 
-1. **Excercise 1**: Logistic regression and Newton's method
-2. **Excercise 2**: Poisson regression, exponential family
-3. **Excercise 3**: Gaussian discriminant analysis
-4. **Excercise 4**: Linear invariance of optimization algorithms
-5. **Excercise 5**: Regression for denoising quasar spectra
+- Link to the problem set: [Problem Set 1](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf)
 
-Links to the problem set and solutions:
+The solutions to each exercise can be found in the following notebooks:
 
-- Problem set: [http://github.com/ccombier/CS229/blob/master/ps1.pdf](http://github.com/ccombier/CS229/blob/master/ps1.pdf)
-- Solutions (iPython Notebook): [http://github.com/ccombier/CS229/blob/master/ps1_solutions.ipynb](http://github.com/ccombier/CS229/blob/master/ps1_solutions.ipynb)
+- **Excercise 1**: [Logistic regression and Newton's method](http://github.com/ccombier/CS229/blob/master/Problem1/1_Logistic_Regression.ipynb)
+- **Excercise 2**: [Poisson regression, exponential family](http://github.com/ccombier/CS229/blob/master/Problem1/2_Poisson_Regression.ipynb)
+- **Excercise 3**: Gaussian discriminant analysis
+- **Excercise 4**: [Linear invariance of optimization algorithms](http://github.com/ccombier/CS229/blob/master/Problem1/4_Linear_Invariance.ipynb)
+- **Excercise 5**: [Regression for denoising quasar spectra](http://github.com/ccombier/CS229/blob/master/Problem1/5_Quasar_Regression.ipynb)
+
