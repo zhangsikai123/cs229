@@ -19,4 +19,3 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 3**: Gaussian discriminant analysis
 - **Exercise 4**: [Linear invariance of optimization algorithms](http://github.com/ccombier/CS229/blob/master/Problem1/4_Linear_Invariance.ipynb)
 - **Exercise 5**: [Regression for denoising quasar spectra](http://github.com/ccombier/CS229/blob/master/Problem1/5_Quasar_Regression.ipynb)
-
