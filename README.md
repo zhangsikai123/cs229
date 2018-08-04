@@ -6,7 +6,7 @@ The problems sets are the ones given for the class of Fall 2017.
 
 For each problem sets, my solutions are provided as an iPython Notebook.
 
-## Problem Set 1
+## Problem Set 1: Supervised Learning
 
 The first problem set deals with supervised learning:
 
