@@ -16,6 +16,7 @@ The solutions to each exercise can be found in the following notebooks:
 
 - **Exercise 1**: [Logistic regression and Newton's method](http://github.com/ccombier/CS229/blob/master/Problem1/1_Logistic_Regression.ipynb)
 - **Exercise 2**: [Poisson regression, exponential family](http://github.com/ccombier/CS229/blob/master/Problem1/2_Poisson_Regression.ipynb)
-- **Exercise 3**: Gaussian discriminant analysis
+- **Exercise 3**: [Gaussian discriminant analysis](http://github.com/ccombier/CS229/blob/master/Problem1/3_Gaussian_Discriminant_Analysis.ipynb)
 - **Exercise 4**: [Linear invariance of optimization algorithms](http://github.com/ccombier/CS229/blob/master/Problem1/4_Linear_Invariance.ipynb)
 - **Exercise 5**: [Regression for denoising quasar spectra](http://github.com/ccombier/CS229/blob/master/Problem1/5_Quasar_Regression.ipynb)
+
