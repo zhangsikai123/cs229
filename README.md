@@ -4,7 +4,7 @@ This repository compiles the problem sets and my solutions to Stanford's Machine
 
 The problems sets are the ones given for the class of Fall 2017.
 
-For each problem sets, my solutions are provided as an iPython Notebook.
+For each problem set, solutions are provided as an iPython Notebook.
 
 ## Problem Set 1: Supervised Learning
 
@@ -20,3 +20,17 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 4**: [Linear invariance of optimization algorithms](http://github.com/ccombier/CS229/blob/master/Problem1/4_Linear_Invariance.ipynb)
 - **Exercise 5**: [Regression for denoising quasar spectra](http://github.com/ccombier/CS229/blob/master/Problem1/5_Quasar_Regression.ipynb)
 
+## Problem Set 2: Supervised Learning II
+
+The second problem set continues exploring supervised learning:
+
+- Link to the problem set: [Problem Set 2](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf)
+
+The solutions to each exercise can be found in the following notebooks:
+
+- **Exercise 1**: Logistic regression: training stability
+- **Exercise 2**: [Model Calibration](http://github.com/ccombier/CS229/blob/master/Problem2/2_Model_Calibration.ipynb)
+- **Exercise 3**: [Bayesian Logistic Regression and weight decay](http://github.com/ccombier/CS229/blob/master/Problem2/3_Bayesian_Logistic_Regression.ipynb)
+- **Exercise 4**: Constructing Kernels
+- **Exercise 5**: [Kernelizing the Perceptron](http://github.com/ccombier/CS229/blob/master/Problem2/5_Kernelizing_the_Perceptron.ipynb)
+- **Exercise 6**: Spam classification
