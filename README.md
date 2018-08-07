@@ -34,3 +34,32 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 4**: Constructing Kernels
 - **Exercise 5**: [Kernelizing the Perceptron](http://github.com/ccombier/CS229/blob/master/Problem2/5_Kernelizing_the_Perceptron.ipynb)
 - **Exercise 6**: Spam classification
+
+## Problem Set 3: Deep Learning & Unsupervised Learning
+
+The second problem set continues exploring supervised learning:
+
+- Link to the problem set: [Problem Set 3](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf)
+
+The solutions to each exercise can be found in the following notebooks:
+
+- **Exercise 1**: A Simple Neural Network
+- **Exercise 2**: Expectation-Maximization for MAP Estimation
+- **Exercise 3**: Expectation-Maximization Application
+- **Exercise 4**: KL divergence and Maximum Likelihood
+- **Exercise 5**: K-means for compression
+
+## Problem Set 4: Expectation Maximization, Deep Learning & Reinforcement Learning
+
+The second problem set continues exploring supervised learning:
+
+- Link to the problem set: [Problem Set 4](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
+
+The solutions to each exercise can be found in the following notebooks:
+
+- **Exercise 1**: Neural Networks: MNIST image classification
+- **Exercise 2**: Expectation-Maximization Convergence
+- **Exercise 3**: Principal Component Analysis
+- **Exercise 4**: Independent Component Analysis
+- **Exercise 5**: Markov Decision Processes
+- **Exercise 6**: Reinforcement Learning: the Inverted Pendulum
