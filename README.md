@@ -1,6 +1,6 @@
 # CS229: Machine Learning Solutions
 
-This repository compiles the problem sets and my solutions to Stanford's Machine Learning graduate class (CS229), taught by Prof. Andrew Ng.
+This repository compiles the problem sets and my solutions to [Stanford's Machine Learning graduate class (CS229)](http://cs229.stanford.edu/), taught by Prof. Andrew Ng.
 
 The problems sets are the ones given for the class of Fall 2017.
 
