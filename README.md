@@ -28,7 +28,7 @@ The second problem set continues exploring supervised learning:
 
 The solutions to each exercise can be found in the following notebooks:
 
-- **Exercise 1**: Logistic regression: training stability
+- **Exercise 1**: [Logistic regression: training stability](http://github.com/ccombier/CS229/blob/master/Problem2/1_Training_Stability.ipynb)
 - **Exercise 2**: [Model Calibration](http://github.com/ccombier/CS229/blob/master/Problem2/2_Model_Calibration.ipynb)
 - **Exercise 3**: [Bayesian Logistic Regression and weight decay](http://github.com/ccombier/CS229/blob/master/Problem2/3_Bayesian_Logistic_Regression.ipynb)
 - **Exercise 4**: [Constructing Kernels](http://github.com/ccombier/CS229/blob/master/Problem2/4_Constructing_Kernels.ipynb)
