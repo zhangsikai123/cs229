@@ -33,7 +33,7 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 3**: [Bayesian Logistic Regression and weight decay](http://github.com/ccombier/CS229/blob/master/Problem2/3_Bayesian_Logistic_Regression.ipynb)
 - **Exercise 4**: [Constructing Kernels](http://github.com/ccombier/CS229/blob/master/Problem2/4_Constructing_Kernels.ipynb)
 - **Exercise 5**: [Kernelizing the Perceptron](http://github.com/ccombier/CS229/blob/master/Problem2/5_Kernelizing_the_Perceptron.ipynb)
-- **Exercise 6**: Spam classification
+- **Exercise 6**: [Spam classification](http://github.com/ccombier/CS229/blob/master/Problem2/6_Spam_Classification.ipynb)
 
 ## Problem Set 3: Deep Learning & Unsupervised Learning
 
