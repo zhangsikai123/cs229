@@ -8,7 +8,7 @@ For each problem set, solutions are provided as an iPython Notebook.
 
 ## Problem Set 1: Supervised Learning
 
-The first problem set deals with supervised learning:
+The first problem set deals with simple supervised learning models:
 
 - Link to the problem set: [Problem Set 1](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf)
 
@@ -22,7 +22,7 @@ The solutions to each exercise can be found in the following notebooks:
 
 ## Problem Set 2: Supervised Learning II
 
-The second problem set continues exploring supervised learning:
+The second problem set continues exploring supervised learning, this time tackling more sophisticated models:
 
 - Link to the problem set: [Problem Set 2](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf)
 
@@ -37,14 +37,14 @@ The solutions to each exercise can be found in the following notebooks:
 
 ## Problem Set 3: Deep Learning & Unsupervised Learning
 
-The second problem set continues exploring supervised learning:
+The third problem set explores unsupervised learning:
 
 - Link to the problem set: [Problem Set 3](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf)
 
 The solutions to each exercise can be found in the following notebooks:
 
 - **Exercise 1**: A Simple Neural Network
-- **Exercise 2**: Expectation-Maximization for MAP Estimation
+- **Exercise 2**: [Expectation-Maximization for MAP Estimation](http://github.com/ccombier/CS229/blob/master/Problem3/2_EM_for_MAP.ipynb)
 - **Exercise 3**: Expectation-Maximization Application
 - **Exercise 4**: KL divergence and Maximum Likelihood
 - **Exercise 5**: K-means for compression
