@@ -46,7 +46,7 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 1**: A Simple Neural Network
 - **Exercise 2**: [Expectation-Maximization for MAP Estimation](http://github.com/ccombier/CS229/blob/master/Problem3/2_EM_for_MAP.ipynb)
 - **Exercise 3**: Expectation-Maximization Application
-- **Exercise 4**: KL divergence and Maximum Likelihood
+- **Exercise 4**: [KL divergence and Maximum Likelihood](http://github.com/ccombier/CS229/blob/master/Problem3/4_KL_Divergence.ipynb)
 - **Exercise 5**: K-means for compression
 
 ## Problem Set 4: Expectation Maximization, Deep Learning & Reinforcement Learning
