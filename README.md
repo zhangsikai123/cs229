@@ -43,7 +43,7 @@ The third problem set explores unsupervised learning:
 
 The solutions to each exercise can be found in the following notebooks:
 
-- **Exercise 1**: A Simple Neural Network
+- **Exercise 1**: [A Simple Neural Network](http://github.com/ccombier/CS229/blob/master/Problem3/1_Simple_Neural_Network.ipynb)
 - **Exercise 2**: [Expectation-Maximization for MAP Estimation](http://github.com/ccombier/CS229/blob/master/Problem3/2_EM_for_MAP.ipynb)
 - **Exercise 3**: [Expectation-Maximization Application: Paper Reviews](http://github.com/ccombier/CS229/blob/master/Problem3/3_EM_Application.ipynb)
 - **Exercise 4**: [KL divergence and Maximum Likelihood](http://github.com/ccombier/CS229/blob/master/Problem3/4_KL_Divergence.ipynb)
