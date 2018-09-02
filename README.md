@@ -47,7 +47,7 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 2**: [Expectation-Maximization for MAP Estimation](http://github.com/ccombier/CS229/blob/master/Problem3/2_EM_for_MAP.ipynb)
 - **Exercise 3**: [Expectation-Maximization Application: Paper Reviews](http://github.com/ccombier/CS229/blob/master/Problem3/3_EM_Application.ipynb)
 - **Exercise 4**: [KL divergence and Maximum Likelihood](http://github.com/ccombier/CS229/blob/master/Problem3/4_KL_Divergence.ipynb)
-- **Exercise 5**: K-means for compression
+- **Exercise 5**: [K-means for Compression](http://github.com/ccombier/CS229/blob/master/Problem3/5_K-means_for_Compression.ipynb)
 
 ## Problem Set 4: Expectation Maximization, Deep Learning & Reinforcement Learning
 
