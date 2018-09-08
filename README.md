@@ -51,14 +51,14 @@ The solutions to each exercise can be found in the following notebooks:
 
 ## Problem Set 4: Expectation Maximization, Deep Learning & Reinforcement Learning
 
-The second problem set continues exploring supervised learning:
+The fourth and final problem set explores deep learning, reinforcement learning, and unsupervised learning:
 
 - Link to the problem set: [Problem Set 4](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
 
 The solutions to each exercise can be found in the following notebooks:
 
 - **Exercise 1**: Neural Networks: MNIST image classification
-- **Exercise 2**: Expectation-Maximization Convergence
+- **Exercise 2**: [Expectation-Maximization Convergence](http://github.com/ccombier/CS229/blob/master/Problem4/2_EM-Convergence.ipynb)
 - **Exercise 3**: Principal Component Analysis
 - **Exercise 4**: Independent Component Analysis
 - **Exercise 5**: Markov Decision Processes
