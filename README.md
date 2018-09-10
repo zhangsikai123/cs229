@@ -60,6 +60,6 @@ The solutions to each exercise can be found in the following notebooks:
 - **Exercise 1**: Neural Networks: MNIST image classification
 - **Exercise 2**: [Expectation-Maximization Convergence](http://github.com/ccombier/CS229/blob/master/Problem4/2_EM-Convergence.ipynb)
 - **Exercise 3**: Principal Component Analysis
-- **Exercise 4**: Independent Component Analysis
+- **Exercise 4**: [Independent Component Analysis](http://github.com/ccombier/CS229/blob/master/Problem4/4_Independent-Component-Analysis.ipynb)
 - **Exercise 5**: Markov Decision Processes
 - **Exercise 6**: Reinforcement Learning: the Inverted Pendulum
